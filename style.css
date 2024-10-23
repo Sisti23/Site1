@@ -4,11 +4,14 @@ body{
     font-size:x-large
     }
     img{
-        width: 2500px;
-        height: 300px;
+        width: 1900px;
+        height: 600px;
     }
     h1, h2, h3{
         text-align: center;
+    }
+    nav{
+        text-align:center
     }
     footer{
         background-color: azure
