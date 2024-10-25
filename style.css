@@ -5,7 +5,7 @@ body{
     }
     img{
         width: 1900px;
-        height: 550px;
+        height: 600px;
     }
     h1, h2, h3{
         text-align: center;
@@ -20,7 +20,7 @@ body{
     }
 button{
     background-color:rgb(255, 249, 223)
-    color:aliceblue
-    font-size: x-large;
-    size:50p
+    color:black
+    font-seze: x-lage
+    size:50
 }
