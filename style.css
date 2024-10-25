@@ -14,12 +14,12 @@ body{
         text-align:center
     }
     footer{
-        background-color: azure
+        background-color: rgb(211, 255, 255)
         color: black
         text-aling:center
     }
 button{
-    background-color:cornsilk
+    background-color:rgb(255, 249, 223)
     color:aliceblue
     font-size: x-large;
 }
